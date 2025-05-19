@@ -1,0 +1,9 @@
+{
+	"name": "robotica-data-factory",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fdfd629e-9e6e-4a69-bba0-327922cfe939",
+		"tenantId": "a2b668cd-a3e9-42b8-a8db-a0857883ae65"
+	}
+}
